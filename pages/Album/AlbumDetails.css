@@ -1,0 +1,16 @@
+.wrap {
+    padding: 0 100px;
+}
+
+.wrap-box{
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+    justify-content: center;
+    gap: 5px;
+}
+
+.item {
+    background-color: aliceblue;
+    border: 2px solid gray;
+}
